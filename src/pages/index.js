@@ -1,22 +1,85 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
-
+import data from "../../data.json"
+import iconItem from "../components/iconItem"
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-  </Layout>
+    <hgroup id="hgroup">
+      <h1>Cake Icons</h1>
+      <h2>cake-sprinkles</h2>
+      <p>
+        Cake-sprinkles are built for the{" "}
+        <a href="https://app.uxpin.com/design-system/837325e9a85b5482d36f/intro">
+          Phunware Cake Design System
+        </a>
+        .<br />Used throughout portal, SDKs, and sample apps.
+      </p>
+      <p>
+        Icons should follow the same contrast standars as typography AA or
+        better.
+        </p>
+    </hgroup>
+
+    <hr />
+
+    <code>
+      <div>cake-sprinkle name="icon-name" cake-sprinkle</div>
+    </code>
+
+    <section class="ic_group">
+
+      <h2>Logos</h2>
+      <div class="ic_group_row">
+        {data.general.map(icon => (
+          <div class="icon">
+            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <p>{icon.label}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="ic_group">
+
+      <h2>Global</h2>
+      <div class="ic_group_row">
+        {data.general.map(icon => (
+          <div class="icon">
+            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <p>{icon.label}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="ic_group">
+
+      <h2>MaaS Navigation</h2>
+      <div class="ic_group_row">
+        {data.general.map(icon => (
+          <div class="icon">
+            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <p>{icon.label}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="ic_group">
+
+      <h2>Wayfinding</h2>
+      <div class="ic_group_row">
+        {data.general.map(icon => (
+          <div class="icon">
+            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <p>{icon.label}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+  </ Layout >
 )
 
 export default IndexPage
