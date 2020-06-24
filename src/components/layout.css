@@ -94,6 +94,7 @@ header {
 footer {
   margin: 0 auto;
   padding: 40px;
+  display: grid;
   align-items: center;
 }
 
