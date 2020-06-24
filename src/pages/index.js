@@ -24,7 +24,12 @@ const IndexPage = () => (
     <hr />
 
     <code>
-      <div><i class="icon name" /></div>
+      <div>
+        <strong>Usages:</strong>
+        <p>Reference icon and name to creative repo asset.</p>
+        <p>import css, and reference class name</p>
+        <p>Download directly below.</p>
+      </div>
     </code>
 
     <section class="ic_group">
