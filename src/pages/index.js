@@ -46,7 +46,7 @@ const IndexPage = () => (
       <div class="ic_group_row">
         {data.general.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} width="24" /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} /></a>
             <p>{icon.label}</p>
           </div>
         ))}
@@ -59,7 +59,7 @@ const IndexPage = () => (
       <div class="ic_group_row">
         {data.logos.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} width="24" /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} /></a>
             <p>{icon.label}</p>
           </div>
         ))}
