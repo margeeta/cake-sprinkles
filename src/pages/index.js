@@ -2,7 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import data from "../../data.json"
-import iconItem from "../components/iconItem"
+
 const IndexPage = () => (
   <Layout>
     <hgroup id="hgroup">
