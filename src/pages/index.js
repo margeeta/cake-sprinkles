@@ -31,7 +31,7 @@ const IndexPage = () => (
 
       <h2>Logos</h2>
       <div class="ic_group_row">
-        {data.general.map(icon => (
+        {data.logos.map(icon => (
           <div class="icon">
             <a href={icon.image} download target="new"><img src={icon.image} /></a>
             <p>{icon.label}</p>
@@ -46,7 +46,7 @@ const IndexPage = () => (
       <div class="ic_group_row">
         {data.general.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} width="24" /></a>
             <p>{icon.label}</p>
           </div>
         ))}
@@ -57,9 +57,9 @@ const IndexPage = () => (
 
       <h2>MaaS Navigation</h2>
       <div class="ic_group_row">
-        {data.general.map(icon => (
+        {data.logos.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} width="24" /></a>
             <p>{icon.label}</p>
           </div>
         ))}
@@ -70,7 +70,7 @@ const IndexPage = () => (
 
       <h2>Wayfinding</h2>
       <div class="ic_group_row">
-        {data.general.map(icon => (
+        {data.logos.map(icon => (
           <div class="icon">
             <a href={icon.image} download target="new"><img src={icon.image} /></a>
             <p>{icon.label}</p>
