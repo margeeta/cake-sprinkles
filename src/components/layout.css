@@ -91,11 +91,10 @@ header {
   border-top: 8px solid #0080ff;
   box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.1);
 }
-footer {
+footer{
   margin: 0 auto;
   padding: 40px;
-  display: grid;
-  align-items: center;
+  text-align: center;
 }
 
 header img {
