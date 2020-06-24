@@ -83,7 +83,7 @@ const IndexPage = () => (
         ))}
       </div>
     </section>
-
+    <footer><a href="http://www.phunware.com">Phunware</a></footer>
   </ Layout >
 )
 

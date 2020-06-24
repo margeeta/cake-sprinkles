@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
       <div>
         <main>{children}</main>
       </div>
-      <footer><a href="http://www.phunware.com">Phunware</a></footer>
+
     </>
   )
 }
