@@ -24,7 +24,7 @@ const IndexPage = () => (
     <hr />
 
     <code>
-      <div>cake-sprinkle name="icon-name" cake-sprinkle</div>
+      <div><i class="icon name" /></div>
     </code>
 
     <section class="ic_group">
@@ -33,7 +33,7 @@ const IndexPage = () => (
       <div class="ic_group_row">
         {data.logos.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} width="24" /></a>
             <p>{icon.label}</p>
           </div>
         ))}
@@ -46,7 +46,7 @@ const IndexPage = () => (
       <div class="ic_group_row">
         {data.general.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} width="24" /></a>
             <p>{icon.label}</p>
           </div>
         ))}
@@ -59,7 +59,7 @@ const IndexPage = () => (
       <div class="ic_group_row">
         {data.nav.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} width="36" /></a>
             <p>{icon.label}</p>
           </div>
         ))}
@@ -72,7 +72,7 @@ const IndexPage = () => (
       <div class="ic_group_row">
         {data.wayfinding.map(icon => (
           <div class="icon">
-            <a href={icon.image} download target="new"><img src={icon.image} /></a>
+            <a href={icon.image} download target="new"><img src={icon.image} width="36" /></a>
             <p>{icon.label}</p>
           </div>
         ))}
