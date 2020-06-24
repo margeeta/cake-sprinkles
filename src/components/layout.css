@@ -91,6 +91,9 @@ header {
   border-top: 8px solid #0080ff;
   box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.1);
 }
+footer {
+  margin: 0 auto;
+}
 header img {
   margin: 0 auto;
   padding: 24px;

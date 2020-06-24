@@ -16,7 +16,7 @@ const IndexPage = () => (
         .<br />Used throughout portal, SDKs, and sample apps.
       </p>
       <p>
-        Icons should follow the same contrast standars as typography AA or
+        Icons should follow the same contrast standards as typography AA or
         better.
         </p>
     </hgroup>
