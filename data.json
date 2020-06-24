@@ -118,8 +118,8 @@
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
-      "label": "ic-mobile",
-      "image": "http://margeeta.com/images/sprinkles/ic_mobile.svg",
+      "label": "ic-phone",
+      "image": "http://margeeta.com/images/sprinkles/ic_phone.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
@@ -133,8 +133,8 @@
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
-      "label": "ic-poi",
-      "image": "http://margeeta.com/images/sprinkles/ic_poi.svg",
+      "label": "ic-location",
+      "image": "http://margeeta.com/images/sprinkles/ic_location.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
@@ -156,6 +156,90 @@
       "label": "ic-search",
       "image": "http://margeeta.com/images/sprinkles/ic_search.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    }
+  ],
+  "nav": [
+    {
+      "label": "Advertising",
+      "image": "http://margeeta.com/images/sprinkles/ic_nav_ads.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "Analytics",
+      "image": "http://margeeta.com/images/sprinkles/ic_nav_analytics.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark-solid.svg?v=1592604375896"
+    },
+    {
+      "label": "App Builder",
+      "image": "http://margeeta.com/images/sprinkles/ic_nav_builder.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "CME",
+      "image": "http://margeeta.com/images/sprinkles/ic_nav_cme.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "Knowledge Graph",
+      "image": "http://margeeta.com/images/sprinkles/ic_nav_graph.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "Mapping",
+      "image": "http://margeeta.com/images/sprinkles/ic_nav_mapping.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "Mobile Engagement",
+      "image": "http://margeeta.com/images/sprinkles/ic_nav_me.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    }
+  ],
+  "wayfinding": [
+    {
+      "label": "route_bear-left",
+      "image": "http://margeeta.com/images/icon_route_bear-left.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "route_bear-right",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_bear-right.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark-solid.svg?v=1592604375896"
+    },
+    {
+      "label": "route_elevatordown",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_elevatordown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "route_elevatorup",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_elevatordown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "route_escalatordown",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_elevatordown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "route_escalatorup",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_elevatordown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "route_stairsdown",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_elevatordown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "route_stairsup",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_elevatordown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
+    },
+    {
+      "label": "route_straight",
+      "image": "http://margeeta.com/images/sprinkles/icon_route_elevatordown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
     }
   ]
 }

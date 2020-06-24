@@ -57,7 +57,7 @@ const IndexPage = () => (
 
       <h2>MaaS Navigation</h2>
       <div class="ic_group_row">
-        {data.logos.map(icon => (
+        {data.nav.map(icon => (
           <div class="icon">
             <a href={icon.image} download target="new"><img src={icon.image} /></a>
             <p>{icon.label}</p>
@@ -70,7 +70,7 @@ const IndexPage = () => (
 
       <h2>Wayfinding</h2>
       <div class="ic_group_row">
-        {data.logos.map(icon => (
+        {data.wayfinding.map(icon => (
           <div class="icon">
             <a href={icon.image} download target="new"><img src={icon.image} /></a>
             <p>{icon.label}</p>
