@@ -25,7 +25,7 @@ const IndexPage = () => (
 
     <code>
       <div>
-        <strong>Usages:</strong>
+        <strong>Usage:</strong>
         <p>Reference icon and name to creative repo asset.</p>
         <p>import css, and reference class name</p>
         <p>Download directly below.</p>
