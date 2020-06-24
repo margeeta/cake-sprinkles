@@ -2,12 +2,12 @@
   "logos": [
     {
       "label": "pw-mark",
-      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503",
+      "image": "http://margeeta.com/images/sprinkles/pw_logo.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark.svg?v=1592604375503"
     },
     {
       "label": "pw-mark-solid",
-      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark-solid.svg?v=1592604375896",
+      "image": "http://margeeta.com/images/sprinkles/pw_logo_solid.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fpw-mark-solid.svg?v=1592604375896"
     }
   ],
@@ -21,11 +21,6 @@
       "label": "ic-ios",
       "image": "http://margeeta.com/images/sprinkles/ic_ios.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-trash.svg?v=1592604375341"
-    },
-    {
-      "label": "ic-calendar",
-      "image": "http://margeeta.com/images/sprinkles/ic_calendar.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
       "label": "ic-info",
@@ -59,7 +54,7 @@
     },
     {
       "label": "ic-settings",
-      "image": "http://margeeta.com/images/sprinkles/ic_calendar.svg",
+      "image": "http://margeeta.com/images/sprinkles/ic_settings.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
