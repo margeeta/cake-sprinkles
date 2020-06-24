@@ -13,17 +13,147 @@
   ],
   "general": [
     {
-      "label": "ic-settings",
-      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-settings.svg?v=1592604375275",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-settings.svg?v=1592604375275"
+      "label": "ic-android",
+      "image": "https://raw.githubusercontent.com/margeeta/cake-sprinkles/d4db96cfe09f134344a060d37064646076e96beb/src/images/ic_android.svg?token=ACOJ3KU33SCH6Q4VHL24ZJ266N4JC",
+      "download": "https://raw.githubusercontent.com/margeeta/cake-sprinkles/d4db96cfe09f134344a060d37064646076e96beb/src/images/ic_android.svg?token=ACOJ3KU33SCH6Q4VHL24ZJ266N4JC"
     },
     {
-      "label": "ic-trash",
+      "label": "ic-ios",
       "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-trash.svg?v=1592604375341",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-trash.svg?v=1592604375341"
     },
     {
+      "label": "ic-calendar",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-info",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-edit",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-overflow",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-export",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-delete",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-calendar",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-settings",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
       "label": "ic-sync",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-alert",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-doc",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-person",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-arrow_back",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-cancel",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-close",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-link",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-face_neutral",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-face_happy",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-face_frown",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-mobile",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-map",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-route",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-poi",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-compass",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-arrow_down",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-arrow_up",
+      "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-search",
       "image": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     }
