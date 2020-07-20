@@ -13,128 +13,23 @@
   ],
   "general": [
     {
-      "label": "ic-android",
-      "image": "http://margeeta.com/images/sprinkles/ic_android.svg",
-      "download": "http://margeeta.com/images/sprinkles/ic_android.svg"
-    },
-    {
-      "label": "ic-ios",
-      "image": "http://margeeta.com/images/sprinkles/ic_ios.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-trash.svg?v=1592604375341"
-    },
-    {
-      "label": "ic-info",
-      "image": "http://margeeta.com/images/sprinkles/ic_info.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-edit",
-      "image": "http://margeeta.com/images/sprinkles/ic_edit.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-overflow",
-      "image": "http://margeeta.com/images/sprinkles/ic_overflow.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-export",
-      "image": "http://margeeta.com/images/sprinkles/ic_export.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-delete",
-      "image": "http://margeeta.com/images/sprinkles/ic_delete.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-calendar",
-      "image": "http://margeeta.com/images/sprinkles/ic_calendar.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-settings",
-      "image": "http://margeeta.com/images/sprinkles/ic_settings.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-sync",
-      "image": "http://margeeta.com/images/sprinkles/ic_sync.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
       "label": "ic-alert",
       "image": "http://margeeta.com/images/sprinkles/ic_alert.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
-      "label": "ic-doc",
-      "image": "http://margeeta.com/images/sprinkles/ic_doc.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+      "label": "ic-android",
+      "image": "http://margeeta.com/images/sprinkles/ic_android.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_android.svg"
     },
     {
-      "label": "ic-person",
-      "image": "http://margeeta.com/images/sprinkles/ic_person.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+      "label": "ic-archive",
+      "image": "http://margeeta.com/images/sprinkles/ic_archive.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_archive.svg"
     },
     {
       "label": "ic-arrow_back",
       "image": "http://margeeta.com/images/sprinkles/ic_arrow_back.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-cancel",
-      "image": "http://margeeta.com/images/sprinkles/ic_cancel.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-close",
-      "image": "http://margeeta.com/images/sprinkles/ic_close.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-link",
-      "image": "http://margeeta.com/images/sprinkles/ic_link.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-face_neutral",
-      "image": "http://margeeta.com/images/sprinkles/ic_face_neutral.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-face_happy",
-      "image": "http://margeeta.com/images/sprinkles/ic_face_happy.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-face_frown",
-      "image": "http://margeeta.com/images/sprinkles/ic_face_frown.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-phone",
-      "image": "http://margeeta.com/images/sprinkles/ic_phone.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-map",
-      "image": "http://margeeta.com/images/sprinkles/ic_map.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-route",
-      "image": "http://margeeta.com/images/sprinkles/ic_route.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-location",
-      "image": "http://margeeta.com/images/sprinkles/ic_location.svg",
-      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
-    },
-    {
-      "label": "ic-compass",
-      "image": "http://margeeta.com/images/sprinkles/ic_compass.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
@@ -148,9 +43,174 @@
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
     },
     {
+      "label": "ic-calendar",
+      "image": "http://margeeta.com/images/sprinkles/ic_calendar.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-cancel",
+      "image": "http://margeeta.com/images/sprinkles/ic_cancel.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_cancel.svg"
+    },
+    {
+      "label": "ic-close",
+      "image": "http://margeeta.com/images/sprinkles/ic_close.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_close.svg"
+    },
+    {
+      "label": "ic-compass",
+      "image": "http://margeeta.com/images/sprinkles/ic_compass.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_compass.svg"
+    },
+    {
+      "label": "ic-copy",
+      "image": "http://margeeta.com/images/sprinkles/ic_copy.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_copy.svg"
+    },
+    {
+      "label": "ic-delete",
+      "image": "http://margeeta.com/images/sprinkles/ic_delete.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_delete.svg"
+    },
+    {
+      "label": "ic-doc",
+      "image": "http://margeeta.com/images/sprinkles/ic_doc.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_doc.svg"
+    },
+    {
+      "label": "ic-draft",
+      "image": "http://margeeta.com/images/sprinkles/ic_draft.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_draft.svg"
+    },
+    {
+      "label": "ic-edit",
+      "image": "http://margeeta.com/images/sprinkles/ic_edit.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-export",
+      "image": "http://margeeta.com/images/sprinkles/ic_export.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-face_frown",
+      "image": "http://margeeta.com/images/sprinkles/ic_face_frown.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-face_happy",
+      "image": "http://margeeta.com/images/sprinkles/ic_face_happy.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-face_neutral",
+      "image": "http://margeeta.com/images/sprinkles/ic_face_neutral.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-filter",
+      "image": "http://margeeta.com/images/sprinkles/ic_filter.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_filer.svg"
+    },
+    {
+      "label": "ic-info",
+      "image": "http://margeeta.com/images/sprinkles/ic_info.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_info.svg"
+    },
+    {
+      "label": "ic-ios",
+      "image": "http://margeeta.com/images/sprinkles/ic_ios.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_ios.svg"
+    },
+    {
+      "label": "ic-link",
+      "image": "http://margeeta.com/images/sprinkles/ic_link.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-location",
+      "image": "http://margeeta.com/images/sprinkles/ic_location.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-map",
+      "image": "http://margeeta.com/images/sprinkles/ic_map.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-overflow",
+      "image": "http://margeeta.com/images/sprinkles/ic_overflow.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-person",
+      "image": "http://margeeta.com/images/sprinkles/ic_person.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-phone",
+      "image": "http://margeeta.com/images/sprinkles/ic_phone.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-route",
+      "image": "http://margeeta.com/images/sprinkles/ic_route.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
       "label": "ic-search",
       "image": "http://margeeta.com/images/sprinkles/ic_search.svg",
       "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-settings",
+      "image": "http://margeeta.com/images/sprinkles/ic_settings.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-sync",
+      "image": "http://margeeta.com/images/sprinkles/ic_sync.svg",
+      "download": "https://cdn.glitch.com/a91c2b7e-a456-41ff-aa6d-9584499b7ac7%2Fic-sync.svg?v=1592604375419"
+    },
+    {
+      "label": "ic-show",
+      "image": "http://margeeta.com/images/sprinkles/ic_show.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_show.svg"
+    },
+    {
+      "label": "ic-status_active",
+      "image": "http://margeeta.com/images/sprinkles/ic_status_active.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_status_active.svg"
+    },
+    {
+      "label": "ic-status_cancelede",
+      "image": "http://margeeta.com/images/sprinkles/ic_status_canceled.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_status_canceled.svg"
+    },
+    {
+      "label": "ic-status_completed",
+      "image": "http://margeeta.com/images/sprinkles/ic_status_completed.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_status_completed.svg"
+    },
+    {
+      "label": "ic-status_scheduled",
+      "image": "http://margeeta.com/images/sprinkles/ic_status_scheduled.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_status_scheduled.svg"
+    },
+    {
+      "label": "ic-status_stopped",
+      "image": "http://margeeta.com/images/sprinkles/ic_status_stopped.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_status_stopped.svg"
+    },
+    {
+      "label": "ic-status_active",
+      "image": "http://margeeta.com/images/sprinkles/ic_status_active.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_status_active.svg"
+    },
+    {
+      "label": "ic-sync",
+      "image": "http://margeeta.com/images/sprinkles/ic_sync.svg",
+      "download": "http://margeeta.com/images/sprinkles/ic_sync.svg"
     }
   ],
   "nav": [
